@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /*
+Disallow: /*/blog/search/*
+
+Host: www.trackthetruck.ch
+Sitemap: https://www.trackthetruck.ch/en/sitemap.xml
+
